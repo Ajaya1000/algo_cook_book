@@ -1,0 +1,125 @@
+[{
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\stack_problem\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\stack_problem",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\stack_problem\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\stack_problem\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\Equality\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\Equality",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\Equality\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\Equality\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\magic_tricks\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\magic_tricks",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\magic_tricks\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\magic_tricks\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\brick_stack\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\brick_stack",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\brick_stack\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\brick_stack\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\dora_matrix\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\dora_matrix",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\dora_matrix\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\dora_matrix\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\brickstack\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\brickstack",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\brickstack\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\brickstack\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\permuatation_of_a_string\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\permuatation_of_a_string",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\permuatation_of_a_string\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\permuatation_of_a_string\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\string_doubts\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\string_doubts",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\string_doubts\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\string_doubts\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\mergesortalgo\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\mergesortalgo",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\mergesortalgo\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\mergesortalgo\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\subarray\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\subarray",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\subarray\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\subarray\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance\\Drawable.h",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance\\Drawable.h -o C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance\\Drawable.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance\\Drawable.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance\\Drawable.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance\\Drawable.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance\\Line.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance\\Line.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance\\Line.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance\\Line.h",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance\\Line.h -o C:\\Users\\Aju\\Documents\\algorithm_book\\inheritance\\Line.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\try\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\try",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\try\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\try\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\insertionSort\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\insertionSort",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\insertionSort\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\insertionSort\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\zzz\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\zzz",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\zzz\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\zzz\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\activity1_1\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\activity1_1",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\activity1_1\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\activity1_1\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\bubble_sort\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\bubble_sort",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\bubble_sort\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\bubble_sort\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\new\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\new",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\new\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\new\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\gfg\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\gfg",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\gfg\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\gfg\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\newsom\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\newsom",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\newsom\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\newsom\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\gcd\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\gcd",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\gcd\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\gcd\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\constconst\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\constconst",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\constconst\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\constconst\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\stupidmachine\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\stupidmachine",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\stupidmachine\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\stupidmachine\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\QuickSort\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\QuickSort",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\QuickSort\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\QuickSort\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\pointerdoubt\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\pointerdoubt",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\pointerdoubt\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\pointerdoubt\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\eulers_totient\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\eulers_totient",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\eulers_totient\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\eulers_totient\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\yyy\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\yyy",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\yyy\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\yyy\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Aju\\Documents\\algorithm_book\\Magic_no\\main.cpp",
+  "directory": "C:\\Users\\Aju\\Documents\\algorithm_book\\Magic_no",
+  "command": "clang  -c C:\\Users\\Aju\\Documents\\algorithm_book\\Magic_no\\main.cpp -o C:\\Users\\Aju\\Documents\\algorithm_book\\Magic_no\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }]

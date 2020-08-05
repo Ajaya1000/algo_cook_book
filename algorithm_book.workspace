@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="algorithm_book" Database="" Version="10.0.0">
+  <Project Name="activity1_2" Path="activity1_1/activity1_1.project" Active="No"/>
+  <Project Name="bubble_sort" Path="bubble_sort/bubble_sort.project" Active="No"/>
+  <Project Name="insertionSort" Path="insertionSort/insertionSort.project" Active="No"/>
+  <Project Name="QuickSort" Path="QuickSort/QuickSort.project" Active="No"/>
+  <Project Name="try" Path="try/try.project" Active="No"/>
+  <Project Name="inheritance" Path="inheritance/inheritance.project" Active="No"/>
+  <Project Name="gfg" Path="gfg/gfg.project" Active="No"/>
+  <Project Name="gcd" Path="gcd/gcd.project" Active="No"/>
+  <Project Name="constconst" Path="constconst/constconst.project" Active="No"/>
+  <Project Name="pointerdoubt" Path="pointerdoubt/pointerdoubt.project" Active="No"/>
+  <Project Name="stupidmachine" Path="stupidmachine/stupidmachine.project" Active="No"/>
+  <Project Name="newsom" Path="newsom/newsom.project" Active="No"/>
+  <Project Name="zzz" Path="zzz/zzz.project" Active="No"/>
+  <Project Name="yyy" Path="yyy/yyy.project" Active="No"/>
+  <Project Name="Magic_no" Path="Magic_no/Magic_no.project" Active="No"/>
+  <Project Name="eulers_totient" Path="eulers_totient/eulers_totient.project" Active="No"/>
+  <Project Name="subarray" Path="subarray/subarray.project" Active="No"/>
+  <Project Name="mergesortalgo" Path="mergesortalgo/mergesortalgo.project" Active="No"/>
+  <Project Name="new" Path="new/new.project" Active="No"/>
+  <Project Name="string_doubts" Path="string_doubts/string_doubts.project" Active="No"/>
+  <Project Name="permuatation_of_a_string" Path="permuatation_of_a_string/permuatation_of_a_string.project" Active="No"/>
+  <Project Name="brickstack" Path="brickstack/brickstack.project" Active="No"/>
+  <Project Name="dora_matrix" Path="dora_matrix/dora_matrix.project" Active="No"/>
+  <Project Name="brick_stack" Path="brick_stack/brick_stack.project" Active="No"/>
+  <Project Name="magic_tricks" Path="magic_tricks/magic_tricks.project" Active="No"/>
+  <Project Name="Equality" Path="Equality/Equality.project" Active="No"/>
+  <Project Name="stack_problem" Path="stack_problem/stack_problem.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="activity1_2" ConfigName="Debug"/>
+      <Project Name="bubble_sort" ConfigName="Debug"/>
+      <Project Name="insertionSort" ConfigName="Debug"/>
+      <Project Name="QuickSort" ConfigName="Debug"/>
+      <Project Name="try" ConfigName="Debug"/>
+      <Project Name="inheritance" ConfigName="Debug"/>
+      <Project Name="gfg" ConfigName="Debug"/>
+      <Project Name="gcd" ConfigName="Debug"/>
+      <Project Name="constconst" ConfigName="Debug"/>
+      <Project Name="pointerdoubt" ConfigName="Debug"/>
+      <Project Name="stupidmachine" ConfigName="Debug"/>
+      <Project Name="newsom" ConfigName="Debug"/>
+      <Project Name="zzz" ConfigName="Debug"/>
+      <Project Name="yyy" ConfigName="Debug"/>
+      <Project Name="Magic_no" ConfigName="Debug"/>
+      <Project Name="eulers_totient" ConfigName="Debug"/>
+      <Project Name="subarray" ConfigName="Debug"/>
+      <Project Name="mergesortalgo" ConfigName="Debug"/>
+      <Project Name="new" ConfigName="Debug"/>
+      <Project Name="string_doubts" ConfigName="Debug"/>
+      <Project Name="permuatation_of_a_string" ConfigName="Debug"/>
+      <Project Name="brickstack" ConfigName="Debug"/>
+      <Project Name="dora_matrix" ConfigName="Debug"/>
+      <Project Name="brick_stack" ConfigName="Debug"/>
+      <Project Name="magic_tricks" ConfigName="Debug"/>
+      <Project Name="Equality" ConfigName="Debug"/>
+      <Project Name="stack_problem" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="activity1_2" ConfigName="Release"/>
+      <Project Name="bubble_sort" ConfigName="Release"/>
+      <Project Name="insertionSort" ConfigName="Release"/>
+      <Project Name="QuickSort" ConfigName="Release"/>
+      <Project Name="try" ConfigName="Release"/>
+      <Project Name="inheritance" ConfigName="Release"/>
+      <Project Name="gfg" ConfigName="Release"/>
+      <Project Name="gcd" ConfigName="Release"/>
+      <Project Name="constconst" ConfigName="Release"/>
+      <Project Name="pointerdoubt" ConfigName="Release"/>
+      <Project Name="stupidmachine" ConfigName="Release"/>
+      <Project Name="newsom" ConfigName="Release"/>
+      <Project Name="zzz" ConfigName="Release"/>
+      <Project Name="yyy" ConfigName="Release"/>
+      <Project Name="Magic_no" ConfigName="Release"/>
+      <Project Name="eulers_totient" ConfigName="Release"/>
+      <Project Name="subarray" ConfigName="Release"/>
+      <Project Name="mergesortalgo" ConfigName="Release"/>
+      <Project Name="new" ConfigName="Release"/>
+      <Project Name="string_doubts" ConfigName="Release"/>
+      <Project Name="permuatation_of_a_string" ConfigName="Release"/>
+      <Project Name="brickstack" ConfigName="Release"/>
+      <Project Name="dora_matrix" ConfigName="Release"/>
+      <Project Name="brick_stack" ConfigName="Release"/>
+      <Project Name="magic_tricks" ConfigName="Release"/>
+      <Project Name="Equality" ConfigName="Release"/>
+      <Project Name="stack_problem" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
